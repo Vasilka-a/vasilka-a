@@ -36,6 +36,7 @@
 🔹 [Курсовой проект «Сервис перевода денег»](https://github.com/Vasilka-a/Money_transfer_server)    
 🔹 [Курсовой проект "Сетевой чат"](https://github.com/Vasilka-a/Chat_project)     
 🔹 [NASA Image Service](https://github.com/Vasilka-a/service_get_apod)   
+🔹 [Jewelry Store – Микросервисный онлайн-магазин украшений](https://github.com/Vasilka-a/Shop-project)   
 
 ---
 
